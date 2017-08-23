@@ -1,0 +1,10 @@
+data/C027Interface.h.i
+data/LWIPInterface.cpp.i
+data/LWIPInterface.h.i
+data/lwipopts.h.i
+data/lwip-eth.lib.i
+data/lwip-sys.lib.i
+data/C027_Support.lib.i
+data/lwip.lib.i
+data/C027Interface.cpp.i
+data/eth_arch.h.i

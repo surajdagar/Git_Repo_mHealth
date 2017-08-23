@@ -1,0 +1,8 @@
+SCMBranch=iGate
+SCMRepository=iGate/mHealth/CoAP_Cellular_Working_Copy/GW_Binary
+SCMMainlineUUID={2f0de93c-8f31-4559-8249-477a7d78ae56}
+SCMBranchRepositoryID=53518
+gateway6LoWPANDynamic.bin;163238524;1;1503424259;|303308|318001
+gateway6LoWPANStatic.bin;3082775103;1;1503424259;|303309|318002
+gatewayThreadDynamic.bin;3575195183;1;1503424259;|303310|318003
+gatewayThreadStatic.bin;3789914235;1;1503424259;|303311|318004
